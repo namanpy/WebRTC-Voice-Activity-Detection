@@ -1,0 +1,3 @@
+C:/Users/naman/Desktop/Development/VoiceActivityDetection/common_audio/out/build/x64-Debug/CMakeFiles/webrtcvad.dir
+C:/Users/naman/Desktop/Development/VoiceActivityDetection/common_audio/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/naman/Desktop/Development/VoiceActivityDetection/common_audio/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

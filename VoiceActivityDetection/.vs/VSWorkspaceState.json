@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\common_audio",
+    "\\common_audio\\signal_processing",
+    "\\common_audio\\vad",
+    "\\rtc_base"
+  ],
+  "PreviewInSolutionExplorer": false
+}
